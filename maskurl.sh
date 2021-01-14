@@ -10,7 +10,11 @@ url_checker() {
 
 clear
 
-echo -e "\e[1;31;42m ### Phishing URL ###\e[0m \n"
+Creadit-Jaykali
+Modify-Sexy
+Re-Modify-MafiaKiller404
+
+echo -e "\e[1;31;42m ###  MafiaKiller404  ###\e[0m \n"
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
 url_checker $phish
