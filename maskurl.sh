@@ -14,7 +14,7 @@ clear
 # Modify-Sexy
 # Re-Modify-MafiaKiller404
 
-echo -e "\e[1;31;42m # MafiaKiller404  #\e[0m \n"
+echo -n " MafiaKiller404 "
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
 url_checker $phish
